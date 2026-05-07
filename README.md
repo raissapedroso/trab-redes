@@ -9,13 +9,7 @@ Redes de Computadores
 Raissa Pedroso
 
 ## Proposta do Trabalho
-
-Este trabalho tem como objetivo realizar uma análise comparativa entre os protocolos HTTP e HTTPS, considerando aspectos relacionados à segurança e ao desempenho das conexões.
-
-Pretende-se também observar diferenças entre as versões TLS 1.2 e TLS 1.3, analisando possíveis impactos em métricas como tempo de resposta e estabelecimento de conexão.
-
-Para a realização da análise, pretende-se utilizar a linguagem Python e bibliotecas voltadas para comunicação em rede e conexões seguras. Também poderão ser utilizadas ferramentas de monitoramento e análise de tráfego para auxiliar na observação prática do comportamento das conexões HTTP e HTTPS.
-
+Este trabalho propõe uma análise comparativa entre os protocolos HTTP e HTTPS, com foco em segurança e desempenho das conexões. Pretende-se também observar diferenças entre TLS 1.2 e TLS 1.3, utilizando Python e ferramentas de monitoramento de tráfego para auxiliar na análise prática das conexões.
 ## Tecnologias Pretendidas
 
 * Python
