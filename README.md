@@ -14,7 +14,7 @@ Este trabalho propõe uma análise comparativa entre o HTTPS tradicional e o HTT
 * Wireshark
 ## Estrutura Inicial
 O projeto pretende conter:
-*Implementação de conexões HTTPS e HTTP/3
-*Comparação entre modelos de comunicação (TCP + TLS vs QUIC + TLS integrado)
-*Testes de desempenho (latência e tempo de resposta)
-*Observação prática do tráfego de rede
+* Implementação de conexões HTTPS e HTTP/3
+* Comparação entre modelos de comunicação (TCP + TLS vs QUIC + TLS integrado)
+* Testes de desempenho (latência e tempo de resposta)
+* Observação prática do tráfego de rede
