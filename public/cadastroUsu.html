@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Cadastro de Usuario</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="login-container">
+        <form class="login-form" action="/login" method = "POST">
+            <h2>Bem-vindo</h2>
+            <p>Faça uma conta</p>
+            
+            <div class="input-group">
+                <label for="email">Digite um nome de usuario</label>
+                <input type="text" name="usuario" placeholder="Usuário">
+            </div>
+
+            <div class="input-group">
+                <label for="password">Digite uma senha</label>
+                <input type="password" name="senha" placeholder="Senha">
+            </div>
+
+            <button type="submit" class="btn-login">Cadastre</button>
+        </form>
+    </div>
+</body>
+</html>

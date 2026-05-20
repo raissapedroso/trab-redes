@@ -1,0 +1,26 @@
+{
+  "name": "trab-redes",
+  "version": "1.0.0",
+  "description": "Redes de Computadores\r ## Aluna\r Raissa Pedroso\r ## Proposta do Trabalho\r Este trabalho propõe uma análise comparativa entre os protocolos HTTP e HTTPS, com foco em segurança e desempenho das conexões. Pretende-se também observar diferenças entre TLS 1.2 e TLS 1.3, utilizando Python e ferramentas de monitoramento de tráfego para auxiliar na análise prática das conexões.\r ## Tecnologias Pretendidas\r * Python\r * Git/GitHub\r ## Estrutura Inicial\r O projeto pretende conter:\r * Implementação de conexões HTTP e HTTPS\r * Comparação entre TLS 1.2 e TLS 1.3\r * Testes de desempenho\r * Observação prática do tráfego de rede",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raissapedroso/trab-redes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/raissapedroso/trab-redes/issues"
+  },
+  "homepage": "https://github.com/raissapedroso/trab-redes#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
